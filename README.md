@@ -4,7 +4,7 @@
 
 I am a student of UOK.Iam following BSc(Hons) in Computer Science degree program.I am a self-motivated,adaptable and responsible undergraguate who is seeking for an opportunity to work in a challenging environment to prove my skills and utility my knowledge and intelligence in the growth of the organization.
 
-##image
+
 
 ![my profile](https://avatars.githubusercontent.com/u/117509337?v=4)
 
